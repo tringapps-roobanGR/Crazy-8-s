@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.organization.name</groupId>
+  <artifactId>crazy8s</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Crazy 8's</name>
+  <description>Crazy 8's Game</description>
+</project>

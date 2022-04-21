@@ -27,7 +27,7 @@ public class Card {
         SIX,
         SEVEN,
         EIGHT,
-        NINE,
+        NINE, 
         TEN,
         JACK,
         QUEEN,
